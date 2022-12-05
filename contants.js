@@ -1,0 +1,1 @@
+const MIN_NUMBER =0;
