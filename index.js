@@ -79,7 +79,6 @@ class Product {
     }
 }
 
-
 class Physicalproduct extends Product{
     constructor(name, price,currency,quantity,weight){
       super(name, price,currency,quantity);
